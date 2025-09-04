@@ -11,9 +11,6 @@
 
 Type|Name
 -|-
-AZ02 | RTC&microSD
-AX04 | Spacer
-AX06 | Grove&5V
 AP01 | AVR MCU
 AZ01 | USB
 AV01 | CR2032
